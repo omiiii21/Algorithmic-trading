@@ -1,4 +1,4 @@
-//@version=4
+//@version=5
 strategy("VWAP Strategy", shorttitle="VWAP Strategy", overlay=true)
 
 // VWAP Calculation
