@@ -1,1 +1,2 @@
 # Algorithmic-trading
+In Algorithmic Trading, several key technical indicators are employed, including RSI (Relative Strength Index), EMA (Exponential Moving Average), VWAP (Volume Weighted Average Price), MACD (Moving Average Convergence Divergence), MA Crossovers utilising Moving Average lines, where SMA and RSI are instrumental for recognizing oversold and overbought conditions, EMA's offer insights into trend following indications, VWAP provides valuable information on Intra Day Liquidity Levels, and MACD is utilised to detect potential trend reversal signals.
