@@ -1,5 +1,5 @@
 //@version=5
-strategy("Weapon Candle Long Strategy", overlay=true)
+strategy("Weapon Candle Long Strat", overlay=true)
 
 // Define parameters
 emaLength = input(9, title="EMA Length")
