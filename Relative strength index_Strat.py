@@ -1,5 +1,5 @@
 //@version=4
-strategy("RSI Strategy", overlay=true)
+strategy("RSI Strat", overlay=true)
 
 // RSI parameters
 rsiLength = input(14, "RSI Length")
