@@ -1,4 +1,4 @@
-//@version=5
+//@version=4
 strategy("EMA Strategy with Buy/Sell Signals", overlay=true)
 
 // EMA parameters
