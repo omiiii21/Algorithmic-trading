@@ -1,5 +1,5 @@
 //@version=5
-strategy("MACD Strategy", shorttitle="MACD", overlay=true)
+strategy("MACD Strat", shorttitle="MACD", overlay=true)
 
 // MACD parameters
 fastLength = input(12, title="Fast EMA Length")
